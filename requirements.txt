@@ -1,0 +1,4 @@
+python-digitalocean
+pytest
+pytest-cov
+paramiko
